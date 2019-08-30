@@ -10,7 +10,7 @@
  *
  * Port for Raspberry pi by Ho Tam - thanhtam.h[at]gmail.com
  */
-
+The change occured in Ubuntu14.04.1 with Thinkpad E545
  #include <stdlib.h>
 #include <signal.h>
 
